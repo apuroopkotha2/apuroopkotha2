@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I’m a Data Scientist and AI Enthusiast with a pa
 
 ## 💼 Work Experience
 - **Data analyst** at DaVita Kidney Care
+  
   Design and deliver data-driven solutions by developing and optimizing SQL queries, creating advanced Tableau dashboards, automating workflows, and collaborating 
   with stakeholders to drive operational efficiency and informed decision-making.**
 
